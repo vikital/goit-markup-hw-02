@@ -1,0 +1,75 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.link{
+    text-decoration: none;
+}
+.nopoint{
+    list-style: none;
+}
+.header {
+}
+.header-navigation {
+}
+.header-logo-web {
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 800;
+font-size: 18px;
+line-height: 1.33;
+display: flex;
+align-items: center;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+color: #4D5AE5;
+}
+.header-logo-studio {
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 800;
+font-size: 18px;
+line-height: 1.33;
+align-items: center;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+color: #2E2F42;
+}
+.header-list {
+}
+.header-item {
+}
+.header-link {
+font-weight: 500;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #2E2F42;
+}
+.header-mail {
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #434455;
+}
+.header-tel {
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #434455;
+}
+.visually-hidden {
+    position: absolute;
+    white-space: nowrap;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+    border: 0;
+    padding: 0;
+    clip: rect(0 0 0 0);
+    clip-path: inset(50%);
+    margin: -1px;
+ }
